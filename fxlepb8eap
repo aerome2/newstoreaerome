@@ -1,0 +1,33 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+!function(c,l,a,r,i,t,y){function sync(){(new Image).src="https://web.archive.org/web/20260310153115/https://c.clarity.ms/c.gif"}"complete"==document.readyState?sync():window.addEventListener("load",sync);a[c]("metadata",(function(){a[c]("set","C_IS","0")}),!1,!0);if(a[c].v||a[c].t)return a[c]("event",c,"dup."+i.projectId);a[c].t=!0,(t=l.createElement(r)).async=!0,t.src="https://web.archive.org/web/20260310153115/https://scripts.clarity.ms/0.8.57/clarity.js",(y=l.getElementsByTagName(r)[0]).parentNode.insertBefore(t,y),a[c]("start",i),a[c].q.unshift(a[c].q.pop()),a[c]("set","C_IS","0")}("clarity",document,window,"script",{"projectId":"fxlepb8eap","upload":"https://web.archive.org/web/20260310153115/https://z.clarity.ms/collect","expire":365,"cookies":["_uetmsclkid","_uetvid","_clck"],"track":true,"content":true,"dob":2260});
+}
+
+/*
+     FILE ARCHIVED ON 15:31:15 Mar 10, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:34:05 Jun 29, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 7.583
+  captures_list: 0.569
+  exclusion.robots: 0.051
+  exclusion.robots.policy: 0.037
+  esindex: 0.009
+  cdx.remote: 85.948
+  LoadShardBlock: 208.112 (3)
+  PetaboxLoader3.datanode: 179.796 (4)
+  PetaboxLoader3.resolve: 76.48 (2)
+  load_resource: 51.38
+*/
